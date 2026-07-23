@@ -51,7 +51,7 @@ activities = {
         "max_participants": 18,
         "participants": []
     },
-    "Art Club": {
+    "Art Club desenh": {
         "description": "Explore drawing, painting, and other visual arts",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 20,
